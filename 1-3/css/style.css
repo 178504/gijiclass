@@ -1,0 +1,7 @@
+#content p:nth-of-type(1){
+  color: red;
+}
+
+#content p:last-child{
+  color: blue;
+}

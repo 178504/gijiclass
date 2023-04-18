@@ -1,0 +1,16 @@
+li{
+  width: 6em;
+  float: left;
+  list-style-type: none;
+}
+
+li a{
+  display: block;
+  text-align: center;
+  line-height: 2;
+  border-right: 1px solid #000;
+}
+
+li:last-child a{
+  border-right:none;
+}
